@@ -1,9 +1,9 @@
-const audio = new Audio("audio.mp3");
-audio.play();
-
+alert("Hi there");
 let text1 = document.querySelector(".list");
 let text2 = document.querySelector(".btn");
 let text3 = document.querySelector(".task");
+const sound = new Audio('audio.mp3');
+sound.play();
 
 
 // add button hover change
