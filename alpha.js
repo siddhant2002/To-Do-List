@@ -1,3 +1,6 @@
+var audio = new Audio('audio.mp3');
+audio.play();
+
 let text1 = document.querySelector(".list");
 let text2 = document.querySelector(".btn");
 let text3 = document.querySelector(".task");
